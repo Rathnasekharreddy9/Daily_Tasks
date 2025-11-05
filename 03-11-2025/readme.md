@@ -1,4 +1,4 @@
-<img width="1360" height="565" alt="image" src="https://github.com/user-attachments/assets/81915dfa-fb48-430d-ab37-9ce5c4d484bb" />DynamoDB, EC2, API Gateway and Lambda
+
 Assignment Overview
 Create a serverless web application that does CRUD  operation on data through an HTML form hosted on EC2, processes it via Lambda functions, and stores it in DynamoDB.
 Architecture Components
